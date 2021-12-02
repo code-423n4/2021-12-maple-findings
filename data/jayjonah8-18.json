@@ -1,0 +1,9 @@
+{
+  "contest": "Maple Finance contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "_initializeInstance() does not check success of .call to proxy_",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-12-maple-findings/issues/18"
+}
