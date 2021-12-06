@@ -1,0 +1,9 @@
+{
+  "contest": "Maple Finance contest",
+  "handle": "Omik",
+  "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
+  "risk": "3",
+  "title": "Instance upgrade doesnt disable the previous update, that can lead to upgrade getting degrade to previous instance by malicious user",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-12-maple-findings/issues/27"
+}
