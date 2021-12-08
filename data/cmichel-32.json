@@ -1,0 +1,9 @@
+{
+  "contest": "Maple Finance contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Missing `success` return value check in liquidations",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2021-12-maple-findings/issues/32"
+}
